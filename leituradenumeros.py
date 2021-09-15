@@ -1,6 +1,6 @@
 #leitura de numeros
 
-#Interação com o usuario(dados serã o inseridos)
+#Interação com o usuario(dados serã  inseridos)
 num1 = float(input('Digite o primeiro número: '))
 num2 = float(input('Digite o segundo numero: '))
 num3 = float(input('Digite o terceiro número'))
